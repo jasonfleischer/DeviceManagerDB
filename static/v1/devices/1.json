@@ -1,0 +1,11 @@
+
+{
+  "Id": "1",
+  "Type": "Sensor", 
+  "Price": 20,
+  "Currency": "USD", 
+  "isFavorite": false,
+  "imageUrl": "https://jasonfleischer.github.io/website/imgs/hcn_tablet.jpg", 
+  "Title": "Test Sensor", 
+  "Description": "This is a test sensor"
+}
