@@ -6,7 +6,7 @@
     "Price": 20,
     "Currency": "USD", 
     "isFavorite": false,
-    "imageUrl": "", 
+    "imageUrl": "https://jasonfleischer.github.io/website/imgs/hcn_tablet.jpg", 
     "Title": "Test Sensor", 
     "Description": ""
     },
@@ -16,7 +16,7 @@
     "Price": 25, 
     "Currency": "USD",
     "isFavorite": false, 
-    "imageUrl": "",
+    "imageUrl": "https://github.com/jasonfleischer/website/blob/gh-pages/imgs/arc_genesis_1.jpg",
     "Title": "Test Thermostat", 
     "Description": ""
     }
