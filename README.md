@@ -4,7 +4,7 @@ This is the database for the mobile device management app found [here](https://g
 
 The mobile device management app shows a complete list of all the devices on the home page. Users can click on a device and visit the device details page. Users can search for a device from the top search bar on the home screen.
 
-This is database is for the following project:
+## Associated project:
 https://github.com/jasonfleischer/DeviceManager
 
 ## Dependencies
