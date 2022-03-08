@@ -20,4 +20,4 @@ $ npm run devStart
 
 ### Servers on pages:
 
-http://127.0.0.1:3000/ or http://127.0.0.1:3000/devices
+http://127.0.0.1:52511/ or http://127.0.0.1:52511/devices
