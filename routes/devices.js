@@ -19,7 +19,7 @@ router.get("/", (req, res) => {
     "Price": 25, 
     "Currency": "USD",
     "isFavorite": false, 
-    "imageUrl": "http://10.0.2.2:52511/imgs/2.jpg",
+    "imageUrl": "http://10.0.2.2:52511/imgs/2.png",
     "Title": "Test Thermostat", 
     "Description": "A thermostat"
     }, 
