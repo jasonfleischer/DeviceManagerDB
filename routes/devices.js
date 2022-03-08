@@ -9,7 +9,7 @@ router.get("/", (req, res) => {
     "Price": 20,
     "Currency": "USD", 
     "isFavorite": false,
-    "imageUrl": "http://127.0.0.1:3000/imgs/1.png", 
+    "imageUrl": "http://10.0.2.2:52511/imgs/1.png", 
     "Title": "Test Sensor", 
     "Description": "A test sensor"
     },
@@ -19,7 +19,7 @@ router.get("/", (req, res) => {
     "Price": 25, 
     "Currency": "USD",
     "isFavorite": false, 
-    "imageUrl": "http://127.0.0.1:3000/imgs/2.jpg",
+    "imageUrl": "http://10.0.2.2:52511/imgs/2.jpg",
     "Title": "Test Thermostat", 
     "Description": "A thermostat"
     }, 
