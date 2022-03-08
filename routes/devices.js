@@ -10,7 +10,7 @@ router.get("/", (req, res) => {
     "Price": 20,
     "Currency": "USD", 
     "isFavorite": false,
-    "imageUrl": "https://jasonfleischer.github.io/website/imgs/hcn_tablet.jpg", 
+    "imageUrl": "http://127.0.0.1:3000/imgs/1.png", 
     "Title": "Test Sensor", 
     "Description": ""
     },
@@ -20,7 +20,7 @@ router.get("/", (req, res) => {
     "Price": 25, 
     "Currency": "USD",
     "isFavorite": false, 
-    "imageUrl": "https://github.com/jasonfleischer/website/blob/gh-pages/imgs/arc_genesis_1.jpg",
+    "imageUrl": "http://127.0.0.1:3000/imgs/2.jpg",
     "Title": "Test Thermostat", 
     "Description": ""
     }
