@@ -1,5 +1,3 @@
-# Under Construction
-
 # Device Manager DB
 
 This is the database for the mobile device management app. 
