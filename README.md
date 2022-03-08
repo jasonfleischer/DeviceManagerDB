@@ -18,3 +18,5 @@ In the root directory run the following via the command-line:
 $ npm install
 $ npm run devStart
 ```
+To test that the server is running in a web browser open:
+http://127.0.0.1:52511/devices
