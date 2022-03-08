@@ -16,6 +16,7 @@ The mobile device management app shows a complete list of all the devices on the
 In the root directory run the following via the command-line:
 
 ```
+$ npm install
 $ npm run devStart
 ```
 
