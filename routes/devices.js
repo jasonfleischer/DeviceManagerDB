@@ -2,7 +2,7 @@ const express = require("express")
 const router = express.Router()
 
 router.get("/", (req, res) => {
-	res.json( [
+  var array = [
     {
     "Id": "1",
     "Type": "Sensor", 
@@ -23,7 +23,8 @@ router.get("/", (req, res) => {
     "Title": "Test Thermostat", 
     "Description": ""
     }
-  ])
-}
+  ]
+	res.json( array )
+})
 
 module.exports = router
