@@ -18,7 +18,3 @@ In the root directory run the following via the command-line:
 $ npm install
 $ npm run devStart
 ```
-
-### Serves on pages:
-
-http://127.0.0.1:52511/ or http://127.0.0.1:52511/devices
