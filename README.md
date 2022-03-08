@@ -1,6 +1,6 @@
 # Under Construction
 
-## Device Manager DB
+# Device Manager DB
 
 This is the database for the mobile device management app. 
 
@@ -19,6 +19,6 @@ In the root directory run the following via the command-line:
 $ npm run devStart
 ```
 
-# Servers on pages:
+### Servers on pages:
 
 http://127.0.0.1:3000/ or http://127.0.0.1:3000/devices
